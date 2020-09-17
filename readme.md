@@ -38,7 +38,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Ik vind het lastig om nieuw geleerde stof meteen toe te passen. Hier liep ik tegenaan bij CSS en vooral bij flexbox, maar als ik meer oefen moet het lukken.
 
 **Screenshot(s):**
 
@@ -46,7 +46,13 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+Wij hebben een volgorde vastgelegd van personen uit ons groepje die eerst gaan. Dan kan iedereen zijn vragen stellen en worden deze beantwoord zo krijgt iedereen feedback.
+Volgorde:
+- Benthe
+- Fleur
+- Denzel
+- Arthur
+- Jody
 
 ### Verslag van meeting
 
