@@ -41,9 +41,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik vind het lastig om nieuw geleerde stof meteen toe te passen. Hier liep ik tegenaan bij CSS en vooral bij flexbox, maar als ik meer oefen moet het lukken.
 
 **Screenshot(s):**
-
--screenshot(s) van hoe ver je bent-
-
+(images/voortgang1.png)
+ 
 ### Agenda voor meeting
 
 Wij hebben een volgorde vastgelegd van personen uit ons groepje die eerst gaan. Dan kan iedereen zijn vragen stellen en worden deze beantwoord zo krijgt iedereen feedback.
