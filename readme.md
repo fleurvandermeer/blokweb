@@ -53,6 +53,8 @@ Volgorde:
 - Arthur
 - Jody
 
+Mijn vraag zal gaan over css. Ik heb ook nog vragen over JavaScript, maar ik wil eerst dat de basis goed is. Mijn afbeeldingen staan nu namelijk het midden door middel van het aanpassen van de margin, maar (volgens mij) zou dit ook moet kunnen met flex-box.
+
 ### Verslag van meeting
 
 -na afloop snel uitkomsten vastleggen-
