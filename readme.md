@@ -41,7 +41,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 Ik vind het lastig om nieuw geleerde stof meteen toe te passen. Hier liep ik tegenaan bij CSS en vooral bij flexbox, maar als ik meer oefen moet het lukken.
 
 **Screenshot(s):**
-(images/voortgang1.png)
+[screenshot(s) die een goed beeld geven van de website die je gaat maken](images/voortgang1.png)
  
 ### Agenda voor meeting
 
