@@ -38,13 +38,13 @@ Voor mijn volgende voortgang zou ik graag het grid toe hebben gepast en JavaScri
 
 
 **Screenshot(s):**
-
+![img voortgang2](images/website.vg.2.png)
 
 
 Op dit moment ziet mijn website er zo uit. Het is nog heel weinig, maar ik snap nu wel beter wat ik aan het doen ben. De vier kleine afbeeldingen aan de linkerkant zou ik graag willen positioneren door middel van een grid. 
 
 
-
+![img voortgang1](images/css.vg.2.png)
 Dit is een stukje van mijn CSS. In mijn oude versie, die ik nu niet meer heb, gebruikte ik alleen maar classes in plaats van 'first-of-type' en 'nth-of-type()', etc. Mijn code ziet er nu netter uit en daar ben ik persoonlijk blij(er) mee. 
 
 ### Agenda voor meeting
