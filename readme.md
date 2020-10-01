@@ -30,8 +30,36 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+Deze week ben ik opnieuw begonnen met mijn code te schrijven. Bij mijn eerste voortgang liep ik er tegenaan dat mijn code er niet uit zag, ik gebruikte veel margin en padding en vooral geen flexbox. Ook gaf ik alles classes.
+Op dit moment merk ik dat ik nog steeds redelijke aanpassingen maak in margin en padding. Dit zou ik graag willen veranderen, zodat mijn code er wat "cleaner" uit ziet. 
+Ook zou ik graag gebruik willen maken van een grid. Ik heb dit geprobeerd op de manier dat ik dacht dat goed was, maar helaas werkt het niet. Daarnaast heb ik nog steeds wat moeite met positioneren.
+Voor mijn volgende voortgang zou ik graag het grid toe hebben gepast en JavaScript voor 'filteren' en 'sorteren'.
 
+
+**Screenshot(s):**
+
+
+
+Op dit moment ziet mijn website er zo uit. Het is nog heel weinig, maar ik snap nu wel beter wat ik aan het doen ben. De vier kleine afbeeldingen aan de linkerkant zou ik graag willen positioneren door middel van een grid. 
+
+
+
+Dit is een stukje van mijn CSS. In mijn oude versie, die ik nu niet meer heb, gebruikte ik alleen maar classes in plaats van 'first-of-type' en 'nth-of-type()', etc. Mijn code ziet er nu netter uit en daar ben ik persoonlijk blij(er) mee. 
+
+### Agenda voor meeting
+Wij hebben weer een volgorde bedacht zodat we per persoon vragen kunnen stellen. Wij hebben overeenkomende vragen, dus we kunnen ook van elkaars vragen leren. De volgorde is als volgt:
+- Benthe
+- Fleur 
+- Denzel
+- Arthur
+- Jody
+
+Graag willen wij het hebben over grid, positionering (flexbox v.s. grid) en (het bewerken van) forms.
+
+### Verslag van meeting
+
+-------
 
 
 ## Voortgang 1 (week 3)
@@ -57,8 +85,7 @@ Mijn vraag zal gaan over css. Ik heb ook nog vragen over JavaScript, maar ik wil
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
-
+Dit kan ik helaas niet invullen, omdat mijn laptop het niet meer deed.
 
 
 ## Intake (week 1)
