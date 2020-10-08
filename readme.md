@@ -29,7 +29,10 @@ Deze week ging ik proberen om de JavaScript toe te voegen. Dit is helemaal niet 
 Op dit moment ben ik bezig met de footer en deze week wil ik mijn eerst pagina af hebben. 
 
 **Screenshot(s):**
-![img voortgang3]
+![img voortgang3](images/vg3.png)
+![img voortgang3](images/vg3.2.png)
+Dit zijn twee afbeeldingen van mijn website tot nu toe.
+
 
 ### Agenda voor meeting
 Ik zou het graag willen hebben over JavaScript, aangezien ik hier veel moeite mee heb. Ik moet een timer inbouwen, een dropdown en een soort van nieuwe pagina (ik weet niet hoe ik het moet noemen). Tijdens de les zal ik 1 van deze 3 stukken gaan vragen en hopelijk snap ik de andere drie dan ook beter, want ik hoop dat ik gewoon even opgefrist moet worden, maar zelf lukt het mij niet.
