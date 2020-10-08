@@ -5,6 +5,7 @@
     <title>Alle kleding | Kleding | MostwantedNL</title>
     <link rel="stylesheet" href="style.css" type="text/css">
     <link rel="stylesheet" href="https://use.typekit.net/zyy8pbn.css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
 
 
 </head>
@@ -25,7 +26,7 @@
   
    <main>
       <section>
-       <p><img src="images/vinkje.png"> VÓÓR 23:00 BESTELD = VANDAAG VERZONDEN</p>
+       <p><img src="images/vinkje.png" alt="vinkje"> VÓÓR 23:00 BESTELD = VANDAAG VERZONDEN</p>
        </section>
        
        <section>
@@ -38,10 +39,14 @@
                    <a>Thuis</a>
                </li>
                <li>
-                   <a>Kleding</a>
+                   <a> > </a>
                </li>
                <li>
-                   <a>Alle kleding</a>
+                   <a>Kleding</a>
+               </li>
+               <li> <a> > </a> </li>
+               <li>
+                   <a class="allekleding">Alle kleding</a>
                </li>
            </ul>
        </section>
@@ -51,24 +56,54 @@
        </section>
        
        <section>
-           <button>SORTEER OP: POSITIE </button>
+           <button>SORTEER OP: POSITIE<img src="images/dropdown.png" alt="dropdown">
+           </button>
+           <section id="dropdown" class="dropdown-content"> </section>
+           <a href="#">Positie</a>
+           <a href="#">Product Naam</a>
+           <a href="#">Prijs</a>   
        </section>
        
        <section>
          
           <ul>
-          <li><a><img src="images/pantalon.lila.png"></a>
+          <li><h3><a>Purple Pantalon</a></h3><img src="images/pantalon.lila.png"><p>&euro;49,99</p>
            
-           <li><a><img src="images/pantalon.beige.png"></a></li>
+           <li><h3><a>Comfy Pantalon</a></h3><img src="images/pantalon.beige.png"><p>&euro;49,99</p></li>
           
-            <li> <a><img src="images/trenchcoat.png"></a></li>
+            <li><h3><a>Sand colored Trenchcoat</a></h3><img src="images/trenchcoat.png"><p>&euro;69,99</p></li>
            
-           <li><a><img src="images/cardigan.png"></a></li>
+           <li><h3><a>Beige Caridgan</a></h3><img src="images/cardigan.png"><p>&euro;59,99</p></li>
+           
+         
            </ul>
-           
+       </section>
+       
+       <section>
+           <p> 1 - 32 | 621 producten</p>
        </section>
     
+    
+    <section>
+    <ul>
+        <li><a href="#">1</a></li>
+        <li><a href="#">2</a></li>
+        <li><a href="#">3</a></li>
+        <li><a href="#">4</a></li>
+        <li><a href="#">5</a></li>
+        <li><a href='#'>></a></li>
+    </ul>
+       </section>
+       
    </main>
+   <footer>
+      <section>
+       <h1>SIGN UP TO STAY UP-TO-DATE</h1>
+       <p>Ontvang wekelijks nieuws met een dosis nieuwe items in je inbox</p>
+       
+       <buton>SUBSCRIBE</buton>
+       </section>
+   </footer>
     
 </body>
 </html>
