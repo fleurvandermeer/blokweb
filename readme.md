@@ -26,8 +26,20 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Stand van zaken
 Deze week ging ik proberen om de JavaScript toe te voegen. Dit is helemaal niet gelukt. Ik snapte er niks van, heb rondgevraagd, maar ben er tot nu toe niet verder mee gekomen. 
-Wel heb ik de footer toegevoegd en heb ik de img'es gepositioneerd. Het positioneren blijf ik lastig vinden, maar het lukt steeds beter. 
+Op dit moment ben ik bezig met de footer en deze week wil ik mijn eerst pagina af hebben. 
 
+**Screenshot(s):**
+![img voortgang3]
+
+### Agenda voor meeting
+Ik zou het graag willen hebben over JavaScript, aangezien ik hier veel moeite mee heb. Ik moet een timer inbouwen, een dropdown en een soort van nieuwe pagina (ik weet niet hoe ik het moet noemen). Tijdens de les zal ik 1 van deze 3 stukken gaan vragen en hopelijk snap ik de andere drie dan ook beter, want ik hoop dat ik gewoon even opgefrist moet worden, maar zelf lukt het mij niet.
+
+Wij hebben weer een volgorde bedacht zodat we per persoon vragen kunnen stellen. Wij hebben overeenkomende vragen, dus we kunnen ook van elkaars vragen leren. De volgorde is als volgt:
+- Benthe
+- Fleur 
+- Denzel
+- Arthur
+- Jody
 
 
 ## Voortgang 2 (week 5)
@@ -60,9 +72,7 @@ Wij hebben weer een volgorde bedacht zodat we per persoon vragen kunnen stellen.
 Graag willen wij het hebben over grid, positionering (flexbox v.s. grid) en (het bewerken van) forms.
 
 ### Verslag van meeting
-
--------
-
+Tijdens de meeting heb ik antwoord gekregen op een aantal vragen. Vanuit deze vragen zal ik verder werken, maar ik weet dat ik volgende week met JavaScript aan de gang moet gaan en ik weet dat ik hier heel veel moeite mee heb. 
 
 ## Voortgang 1 (week 3)
 
