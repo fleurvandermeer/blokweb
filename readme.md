@@ -24,7 +24,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+## Stand van zaken
+Deze week ging ik proberen om de JavaScript toe te voegen. Dit is helemaal niet gelukt. Ik snapte er niks van, heb rondgevraagd, maar ben er tot nu toe niet verder mee gekomen. 
+Wel heb ik de footer toegevoegd en heb ik de img'es gepositioneerd. Het positioneren blijf ik lastig vinden, maar het lukt steeds beter. 
 
 
 
