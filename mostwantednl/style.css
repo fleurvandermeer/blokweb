@@ -1,7 +1,7 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: niveau-grotesk, sans-serif;
+    
 }
 
 ul {
@@ -12,143 +12,188 @@ a {
     text-decoration: none;
 }
 
+/*********************Navigatie MostWantedNL************/
 nav {
+    position: fixed;
     top: 0;
 }
-
 nav ul li{
-    display: flex;  
-    flex-direction: row;
-    justify-content: space-between;
+    display: flex;
+    justify-content: space-around;
     background-color: black;
 }
 
+.logo {
+    margin: .5em 10em 0 14em;
+    width: 13em;
+}
+
+.menu {
+    margin: 0 0 0 0;
+    width: 8em;
+}
+
+nav ul li a {
+    margin:0; padding:0;
+}
+
+
+nav ul li a img {
+    width: 8em;
+}
+
+
 nav ul {
-    padding: 0 0 0 0;
+    padding: 0;
     margin-top: 0;  
     width: 100%;
 }
 
 
-.logo {
-    margin-left: 150px;
-}
-
-
-main section p {
-    font-weight: 400;
-    font-size: 40px;
+/***************Start Main HTML**************/
+/**************Banner zinnen onder de nav***********/
+main section:first-of-type p {
+    font-family: 'Heebo', sans-serif;
+    font-weight: 700;
+    font-size: 1.5em;
     text-align: center;
-    padding-bottom: 1em;
+    padding: 6em 0 3em 0;
    
 }
 
-main section img:first-of-type {
-    width: 5%;
+
+
+/************Vinkje banner zinnen********/
+main section:first-of-type img {
+    width: 1em;
+    padding-right: 1em;
 }
 
 
+
+/******************Header img******************/
 main section:nth-of-type(2) img {
     width: 100%;
-    margin: 0;
 }
 
 
+
+/********************Breadcrumbs*******************/
 main section:nth-of-type(3) ul {
+    font-family: 'Heebo', sans-serif;
     display: flex;
-    width: 100%;
-    background-color: white;
+    padding: 2em 2em 2em; 0;
+    
 }
 
 
 main section:nth-of-type(3) ul a {
-    margin-left: 50px;
-    font-size: 30px;
-    
+    font-size: 30px; 
+    margin-left: 20px;
 }
 
 
+
+
+/*******************Button Filteren************/
 main section:nth-of-type(4) button {
     display: flex;
+    align-items: center;
     justify-content: center;
-    margin: auto;
-    border: 1px solid darkgrey; 
+    margin: 50px auto 50px auto;
+    height: 4em;  width: 30em;
+    
     font-size: 30px;
     background-color: white;
-    padding: 40px 300px 40px 300px;
-    margin-bottom: 50px;
-    margin-top: 50px;
+    border: 1px solid lightgrey; 
     
 }
 
+
+
+/*****************Button Sorteren****************/
 main section:nth-of-type(5) button {
     display: flex;
-    margin-bottom: 50px;
-    margin: auto;
-    border: 1px solid darkgrey; 
+    align-items: center;
+    margin: 50px auto 50px auto;
+    height: 4em;  width: 30em;
     font-size: 30px;
     background-color: white;
-    padding: 40px 5px 40px 5px;
+    border: 1px solid lightgrey;
+    
+}
+
+main section:nth-of-type(5) button p {
+    margin-left: 1em;
     
 }
 
 main section:nth-of-type(5) button img {
-    display: flex;
-    margin-left: 200px;     
+    margin-left: 15em;
+    width: 1em;
 }
 
 
 main section:nth-of-type(6) {
     display: flex;
     justify-content: center;
+    
+    font-family: 'Heebo', sans-serif;
+    font-size: 2em;
+
 }
 
+/********Lijst met kleding items********/
 main section:nth-of-type(6) ul{
+    position: absolute;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    align-content: center;
 }
 
 
 main section:nth-of-type(6) ul li{
+    display: flex;
+    justify-content: center;
     border: 0.5px solid darkgrey;
+    height: 23em;
+    
+}
+
+main section:nth-of-type(6) ul li h2 {
+    position: absolute;
+    bottom: 2em;
+    font-family: 'Heebo', sans-serif;
+    font-size: 1em;
+    
+}
+
+main section:nth-of-type(6) ul li p {
+    position: absolute;
+    display: flex;
+    bottom: 0;
+    font-family: 'Heebo', sans-serif;
+    font-size: 1em;
+    align-items: center;
     
 }
 
 main section:nth-of-type(6) ul li img{
-    width: 20em;
-    margin: 1em 5em 6em 5em;
+    position: relative;
+    width: 13em;
+    height: 13em;
+    padding-top: 1em;
     
 }
 
-main section:nth-of-type(8) ul {
+main section:nth-last-of-type(7) ul li {
     display: flex;
-    justify-content: center;
-   
-}
-
-main section:nth-of-type(8) ul li{
-    margin-left: 3em;
-    font-size: 2em;  
-    border: 2px solid grey;
-   
-}
-
-main section:nth-of-type(8) ul li:active{
-    margin-left: 3em;
-    font-size: 2em;  
-    border: 5px solid black;
-   
-}
-
-main section:nth-of-type(8) ul li a{
-    color: black;
-    margin: 3em 1em 3em 1em;
-   
+    justify-content: space-around;
 }
 
 
 
-footer section:first-of-type h1 {
+/*footer section:first-of-type h1 {
     font-family: 'Lato', sans-serif;
     font-size: 100px;
     text-align: center;
@@ -158,12 +203,22 @@ footer section:first-of-type h1 {
 }
 
 footer section:first-of-type p {
+
     font-size: 30px;
     margin: 0;
     text-align: center;
     margin-bottom: 3em;
 
 }
+
+.subscribe {
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    color: white;
+    background-color: black;
+    padding: .5em;
+}*/
 
 
 

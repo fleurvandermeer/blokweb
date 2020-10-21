@@ -4,8 +4,17 @@
     <meta charset="UTF-8">
     <title>Alle kleding | Kleding | MostwantedNL</title>
     <link rel="stylesheet" href="style.css" type="text/css">
+   
     <link rel="stylesheet" href="https://use.typekit.net/zyy8pbn.css">
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap" rel="stylesheet">
+    
+    <!--Lettertypes-->
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@300&display=swap" rel="stylesheet">
+
+    
+    <!--Tab Icon-->
+    <link rel="icon" href="images/logo.png"/>
+
 
 
 </head>
@@ -14,9 +23,9 @@
      <nav>
       <ul>
           <li>
-              <a><img src="images/menu.png" alt="menu"></a> 
+              <a><img src="images/menu.png" class="menu" alt="menu"></a> 
               <a><img src="images/logo.png" class="logo" alt="logo"></a>
-              <a><img src="images/zoeken.png" alt="search"></a>
+              <a><img src="images/search.png" alt="search"></a>
               <a><img src="images/shoppingbag.png" alt="shoppingbag"> </a> 
           </li>
         
@@ -26,11 +35,11 @@
   
    <main>
       <section>
-       <p><img src="images/vinkje.png" alt="vinkje"> VÓÓR 23:00 BESTELD = VANDAAG VERZONDEN</p>
+       <p><img src="images/vinkje.png" alt="vinkje"><span>VÓÓR 23:00 BESTELD = VANDAAG VERZONDEN</span> </p>
        </section>
        
        <section>
-           <img src="images/header.kleding.png" alt="header">
+           <img src="images/headerfoto.png" alt="header">
        </section>
        
        <section>
@@ -56,35 +65,35 @@
        </section>
        
        <section>
-           <button>SORTEER OP: POSITIE<img src="images/dropdown.png" alt="dropdown">
+           <button><p>SORTEER OP:</p>
+           <p>POSITIE</p>
+           <img src="images/dropdown.png" alt="dropdown">
            </button>
-           <section id="dropdown" class="dropdown-content"> </section>
+           
+           <!--JavaScript wat nog niet af is-->
+          <!--- <section id="dropdown" class="dropdown-content"> </section>
            <a href="#">Positie</a>
            <a href="#">Product Naam</a>
-           <a href="#">Prijs</a>   
+           <a href="#">Prijs</a> -->  
        </section>
        
+       
        <section>
-         
-          <ul>
-          <li><h3><a>Purple Pantalon</a></h3><img src="images/pantalon.lila.png"><p>&euro;49,99</p>
+           <ul> 
            
-           <li><h3><a>Comfy Pantalon</a></h3><img src="images/pantalon.beige.png"><p>&euro;49,99</p></li>
-          
-            <li><h3><a>Sand colored Trenchcoat</a></h3><img src="images/trenchcoat.png"><p>&euro;69,99</p></li>
+               <li><h2><a>VAMPY WRAP DRESS</a></h2><p>&euro;39,99</p><img src="images/vampywrapdress.png" alt="Vampy wrap dress">
+               </li>
            
-           <li><h3><a>Beige Caridgan</a></h3><img src="images/cardigan.png"><p>&euro;59,99</p></li>
+               <li><h2><a>DORI BLOUSE DRESS BLACK</a></h2><p>&euro;44,99</p><img src="images/doriblousedressblack.png" alt="Dori blouse dress black">
+               </li>
+               
            
-         
            </ul>
+           
        </section>
        
-       <section>
-           <p> 1 - 32 | 621 producten</p>
-       </section>
     
-    
-    <section>
+   <!-- <section>
     <ul>
         <li><a href="#">1</a></li>
         <li><a href="#">2</a></li>
@@ -93,17 +102,18 @@
         <li><a href="#">5</a></li>
         <li><a href='#'>></a></li>
     </ul>
-       </section>
+       </section>-->
        
    </main>
-   <footer>
+   <!--<footer>
       <section>
        <h1>SIGN UP TO STAY UP-TO-DATE</h1>
        <p>Ontvang wekelijks nieuws met een dosis nieuwe items in je inbox</p>
        
-       <buton>SUBSCRIBE</buton>
+       <buton class='subscribe'>SUBSCRIBE</buton>
        </section>
-   </footer>
-    
+   </footer>-->
+     <script src="script.js"></script>
 </body>
+
 </html>
