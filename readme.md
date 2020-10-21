@@ -14,11 +14,16 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+## Stand van zaken
+Deze week ben ik (alweer) opnieuw begonnen. Ik raakte de draad kwijt en zat er (voor mijn gevoel) te diep in om het de website er nog goed uit te laten zien. Doordat ik, heel erg last minute (lees: gister), opnieuw ben begonnen heb ik het dus niet af. Toch kies ik ervoor om deze versie in te leveren. Mijn code is netter dan in de oude versie en ik wil graag de versie bespreken die ik het nieuwste heb gemaakt. 
+
+Wat ik lastig vond, en nog steeds vind, aan dit vak is dat ik niet goed ben in het toepassen van de geleerde stof. Ik snap het volgens mij best goed en onder de les kan ik het meeste ook begrijpen, totdat ik er zelf aan zit en als ik dan bezig ben snap ik soms ook niet wat ik niet snap. Ik weet van mezelf dat ik er gewoon heel veel tijd in moet steken, dus dat ik weer doen. 
+
+Het lastigste vond ik wel het positioneren en flexbox, dus ik heb de oefenigen van de werkgroep nog een keer gemaakt en de video's bekeken. Nu gaat het wel wat beter, maar het is nog lastig. 
+
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
 
 
 
