@@ -6,9 +6,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. https://www.mostwantednl.nl/kleding.html
+Hier heb ik alle afbeeldingen vandaan
+
+2. Sanne 't Hooft
+Deel JavaScript code timer
 
 
 
@@ -23,7 +25,8 @@ Het lastigste vond ik wel het positioneren en flexbox, dus ik heb de oefenigen v
 
 
 **Screenshot(s):**
-
+![img eindgesprek](images/kledingpagina.eind1.png)
+![img eindgesprek](images/kledingpagina.eind2.png)
 
 
 
