@@ -14,8 +14,15 @@ Deel JavaScript code timer
 
 ## Herkansing (02/11)
 Voor de herkansing ben ik verder gaan werken aan mijn JavaScript en de rest van de eerste pagina. Al snel kwam voor mij de keuze of ik mijn andere 4 vakken ging herkansen en alles op alles zou zetten om dit vak te halen of dat ik dit vak volgend jaar zou herkansen en mijn andere vakken sowieso zou gaan halen. Ik heb ervoor gekozen om mijn andere vakken sowieso te gaan halen (en dat is gelukkig ook gelukt) en dit vak volgend jaar te herkansen met de hoop dat het beter (of zelfs goed) uitpakt. 
-Tijdens het maken van mijn pagina liep ik tegen een aantal rare en vooral kleine problemen aan, waar ik vervolgens heel lang mee bezig was. Ik heb hulp ingeschakeld van klasgenoten en zij snapten ook niet wat er fout ging. Bijvoorbeeld bij de order op regel 162, 167 en 172 moest ik iets in mijn HTML omwisselen. Uiteindelijk WAS het gelukt en toen ik mijn pagina refreshte niet meer, terwijl ik niks heb veranderd.  
+Tijdens het maken van mijn pagina liep ik tegen een aantal rare en vooral kleine problemen aan, waar ik vervolgens heel lang mee bezig was. Ik heb hulp ingeschakeld van klasgenoten en zij snapten ook niet wat er fout ging. Bijvoorbeeld bij de order op regel 162, 167 en 172 moest ik iets in mijn HTML omwisselen. Uiteindelijk WAS het gelukt en toen ik mijn pagina refreshte niet meer, terwijl ik niks heb veranderd. En het lukt mij opeens niet meer om het grid vorm te geven.
 
+
+**Screenshot(s):**
+![img_eindgesprek](images/afbeelding1.png)
+![img_eindgesprek](images/afbeelding2.png)
+![img_eindgesprek](images/afbeelding3.png)
+![img_eindgesprek](images/afbeelding4.png)
+![img_eindgesprek](images/afbeelding5.png)
 
 
 
